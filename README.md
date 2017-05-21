@@ -1,2 +1,2 @@
 # git-github
-testing new project on PC
+testing new project on PC. Othere are on Mac
