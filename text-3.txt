@@ -1,1 +1,2 @@
-the third text
+the third text file.
+This is the first change to this file.
